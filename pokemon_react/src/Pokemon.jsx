@@ -62,7 +62,7 @@ const Pokemon = () => {
         <header>
           <h1>Lets Catch Pokemon</h1>
         </header>
-        <div class="pokemon-search">
+        <div className="pokemon-search">
           <input
             type="text"
             placeholder="Search Pokemon Here"
